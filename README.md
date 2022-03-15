@@ -1,9 +1,4 @@
 # miPrimerRepo
 
 ## otro titulo
-
-#### *ni idea*
-
-# **F**
-
-~A~
+https://www.google.com/
